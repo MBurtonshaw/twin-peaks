@@ -1,0 +1,22 @@
+{
+  "name": "twin-peaks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/mburtonshaw/twin-peaks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mburtonshaw/twin-peaks/issues"
+  },
+  "homepage": "https://github.com/mburtonshaw/twin-peaks#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.0"
+  }
+}
